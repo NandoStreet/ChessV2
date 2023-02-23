@@ -1,4 +1,4 @@
-package ChessCode;
+package code;
 
 
 
